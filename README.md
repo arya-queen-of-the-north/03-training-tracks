@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name:Semhal Tekleab
 
-Track Name: 
+Track Name: Android Development
 
-Track Description: 
+Track Description: Development of Android Apps with Java
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
